@@ -1,4 +1,5 @@
 # steam-game-analysis
+Teammember: Xinfu Zhang, Pengchong Wang, Jia he
 
 There are two main part: classification and recommendation.
 
