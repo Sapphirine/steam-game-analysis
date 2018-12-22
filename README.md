@@ -1,4 +1,4 @@
-# steam-game-analysis/n
+# steam-game-analysis
 
 There are two main part: classification and recommendation.
 
